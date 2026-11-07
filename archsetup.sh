@@ -54,7 +54,6 @@ utils=(
     nvim
     nwg-look
     pavucontrol
-    plasma-plasma-systemmonitor
     playerctl
     python-pipx
     qt6ct
