@@ -1,17 +1,7 @@
 ## Arch utils install script
 
-```bash
-git clone https://github.com/augtopusgenuine/Arch-Setup
-```
+One liner install :
 
 ```bash
-cd Arch-Setup
-```
-
-```bash
-sudo chmod +x archsetup.sh
-```
-
-```bash
-./archsetup.sh
+git clone https://github.com/augtopusgenuine/Arch-Setup && cd Arch-Setup && sudo chmod +x archsetup.sh && ./archsetup.sh
 ```
